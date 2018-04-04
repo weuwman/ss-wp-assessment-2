@@ -1,5 +1,6 @@
 <?php get_header(); ?>
 
+<!-- Main -->
 <div class="main">
 	<!-- Main Content -->
 	<h1><?php the_title(); ?></h1>
@@ -7,6 +8,7 @@
 	<?php the_content(); ?>
 	</div>
 </div>
+<!-- End Main -->
 
 
 <?php get_sidebar(); ?>

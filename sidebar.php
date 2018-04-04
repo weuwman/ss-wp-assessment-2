@@ -1,4 +1,6 @@
+<!-- Sidebar -->
 <div class="sidebar">
-	<!-- Sidebar -->
+	<!-- Sidebar Content-->
 	<h2>X</h2>
 </div>
+<!-- End Sidebar -->

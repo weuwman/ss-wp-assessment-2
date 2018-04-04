@@ -1,5 +1,7 @@
 <?php 
 
+
+//https://speedrak.com/how-to-move-javascripts-to-the-footer-in-wordpress/
 // Custom Scripting to Move JavaScript from the Head to the Footer
 
 function remove_head_scripts() { 
